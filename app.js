@@ -10,10 +10,10 @@ routerApp.config(function ($stateProvider, $urlRouterProvider) {
         template: 'partial-home.html'
       });
     // About page and multiple named views
-      .state('about', 
-      // {
-      //   url: '',
-      //   template: ''
-      // }
-      );
+      // .state('about', 
+      // // {
+      // //   url: '',
+      // //   template: ''
+      // // }
+      // );
 });
